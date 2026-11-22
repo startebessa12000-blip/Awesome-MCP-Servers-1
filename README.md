@@ -520,6 +520,7 @@ Single MCP endpoints that expose many integrations.
 - Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy
 - MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp
 - Magg — https://github.com/sitbon/magg
+- Chain.Love — https://github.com/Chain-Love/chain.love-mcp — Remote MCP gateway (`https://app.chain.love/mcp`) for discovering and comparing Web3 infrastructure providers (RPCs, indexers, oracles, storage, explorers, and developer tools) and executing downstream MCP actions across supported networks.
 
 ---
 
